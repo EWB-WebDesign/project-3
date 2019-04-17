@@ -167,6 +167,10 @@ iframe{
   position: relative;
   left: 60px;
 }
-.map-class{
+#map{
+  width: 850px;
+  height: 600px;
+  margin: 0;
+  padding: 0;
   background-color: black;
 }
