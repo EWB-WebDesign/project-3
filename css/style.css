@@ -167,3 +167,6 @@ iframe{
   position: relative;
   left: 60px;
 }
+.map-class{
+  background-color: black;
+}
